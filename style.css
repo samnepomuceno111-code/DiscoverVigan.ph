@@ -24,11 +24,6 @@ body {
     color: #fff;
 }
 
-.sub-header h1 {
-    margin-top: 85px;
-    font-size: 60px;
-}
-
 .container-fluid h2 {
     color: white;
     justify-content: left;
@@ -122,7 +117,6 @@ body {
   background-color: #63A6A6;
   border-color: #63A6A6;
 }
-
 
 .container h2{
   margin-top: 3%;
@@ -250,3 +244,4 @@ footer a {
   text-decoration: underline;
 
 }
+
