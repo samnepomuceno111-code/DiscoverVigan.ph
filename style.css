@@ -8,7 +8,7 @@ body {
 .header{
     min-height: 100vh;
     width: 100%;
-    background-image: linear-gradient(rgba(122, 133, 174, 0.7),rgba(73, 81, 110, 0.7)), url("https://i.pinimg.com/1200x/f2/4c/72/f24c72012727e3c3786ee2b2a9ac6b76.jpg");
+    background-image: linear-gradient(rgba(122, 133, 174, 0.7),rgba(73, 81, 110, 0.7)), url("../DiscoverVigan.ph/img/bg.jpg");
     background-position: center;
     background-size: cover;
     position: relative;
@@ -241,6 +241,7 @@ footer a {
      font-size: 90px;
    }
 }
+
 
 
 
