@@ -232,9 +232,15 @@ footer a {
   color: #fff;
   font-size: 16px;
   text-decoration: underline;
-
 }
-
+ @media(max-width:375px){
+   .subheader4 h1 {
+  font-size: 90px;
+   }
+   .header h1 {
+     font-size: 90px;
+   }
+}
 
 
 
